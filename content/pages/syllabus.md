@@ -180,7 +180,7 @@ Homework will be graded based on:
 
 The scale is 1-5.
 
-For more details, check out [The CS109A Grade](https://canvas.harvard.edu/files/8212857/download?download_frd=1).
+For more details, check out [The CS109A Grade](https://canvas.harvard.edu/files/8463173/download?download_frd=://canvas.harvard.edu/files/8463173/download?download_frd=1).
 
 
 
@@ -193,12 +193,12 @@ If still unhappy with the initial response, then submit a reason via email to th
 
 #### Collaboration Policy
 
-We encourage you to talk and discuss the assignments with your fellow students (and on Piazza), but you are not allowed to look at any other student’s assignment or code outside of your pair.  Discussion is encouraged; copying is not allowed. Please refer to the Academic Honesty section in [The CS109A Grade](https://canvas.harvard.edu/files/8212857/download?download_frd=1).
+We encourage you to talk and discuss the assignments with your fellow students (and on Piazza), but you are not allowed to look at any other student’s assignment or code outside of your pair.  Discussion is encouraged; copying is not allowed. Please refer to the Academic Honesty section in [The CS109A Grade](https://canvas.harvard.edu/files/8463173/download?download_frd=1 "The CS109A Grade").
 
 
 #### Late Day Policy
 
-Homework is due on Wednesdays.  There are no late days.
+Homework is due on Wednesdays.  There are no late days. <span style="color:red">**Late submissions will not be accepted.**</span>
 
 
 #### Communication from Staff to Students
@@ -272,4 +272,4 @@ Ethical behavior is an important trait of a Data Scientist, from ethically handl
 
 As a student your best guidelines are to be reasonable and fair. We encourage teamwork for problem sets and allow submission in pairs for most problem sets, but you should not split the homework and you should work on all the problems together.
 
-For more detailed expectations, please refer to the Academic Honesty section in [The CS109A Grade](https://canvas.harvard.edu/files/8212857/download?download_frd=1).
+For more detailed expectations, please refer to the Academic Honesty section in [The CS109A Grade](https://canvas.harvard.edu/files/8463173/download?download_frd=1).
